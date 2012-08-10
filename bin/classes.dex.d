@@ -1,0 +1,25 @@
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes.dex : \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/UnmetConditionException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/SimpleHttpResponse.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/ResourceNotFoundException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/MethodNotImplementedException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/InvalidAppOrResourceException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/InternalTimeoutException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/InternalServerException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/ISO8601DateParser.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/ForbiddenException.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/CloudyRecResource.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/CloudyRecFstore.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/CloudyRecConnector.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/AllarmActivity.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/AlarmTime.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/R$string.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/R.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/R$layout.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/R$attr.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/R$drawable.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/bin/classes/com/rivaledge/cloudyrec/BuildConfig.class \
+/home/lope/Desktop/ZBzNYrRUZP_android/libs/signpost-core-1.2.1.1.jar \
+/home/lope/Android/android-sdk-linux/tools/support/annotations.jar \
+/home/lope/Desktop/ZBzNYrRUZP_android/libs/signpost-commonshttp4-1.2.1.1.jar \
+/home/lope/Desktop/ZBzNYrRUZP_android/libs/httpmime-4.1.2.jar \
